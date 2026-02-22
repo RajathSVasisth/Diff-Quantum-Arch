@@ -1,0 +1,1 @@
+The project demonstrates a potential software and hardware co-design loop to build quantum circuits based on the paradigms of differentiable architecture search. This [`document`](Quantum_Final_Project.pdf) provides a detailed overview of the proposed architecture and its application to the Max-Cut problem.
